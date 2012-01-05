@@ -1,0 +1,16 @@
+.commentlist {
+	width: 560px !important;
+	overflow: hidden;
+}
+.commentlist .children li {
+	width: 85% !important;
+}
+.bnavend {
+	display: none;
+}
+.bnavinner {
+	width: 938px;
+}
+.feature_content {
+	top:-245px !important;
+}

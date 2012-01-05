@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ColdStone 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-03 22:53+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:5
+msgid "Sorry, this page does not exist."
+msgstr "Diese Seite gibt es leider nicht."
+
+#: ../404.php:6
+msgid "The page you have requested was not found or has moved. Feel free to use the search bar above to locate your desired post."
+msgstr "Keine Seite gefunden. Etwas anderes Suchen?"
+
+#: ../footer.php:5
+msgid "Powered by "
+msgstr "Powered by"
+
+#: ../footer.php:5
+msgid "Designed by "
+msgstr "Designed by"
+
+#: ../header.php:101
+#: ../header.php:130
+msgid "Home"
+msgstr "Startseite"
+
+#: ../js-side.php:6
+msgid "Latest Headlines"
+msgstr "Letztes"
+
+#: ../js-side.php:7
+msgid "Comments"
+msgstr "Kommentare"
+
+#: ../js-side.php:9
+msgid "Categories"
+msgstr "Kategorien"
+
+#: ../js-side.php:10
+msgid "Recent"
+msgstr "Letztes"
+
+#: ../js-side.php:12
+#: ../js-side.php:13
+msgid "Archives"
+msgstr "Archiv"
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr "Suchen"
+
+#: ../includes/blogstylecat.php:31
+#: ../includes/blogstylehome.php:34
+#: ../includes/default.php:37
+#: ../includes/defaultarchive.php:42
+#: ../includes/defaultcat.php:37
+#: ../includes/defaultindex.php:37
+msgid "&laquo; Previous Entries"
+msgstr "&laquo; &Auml;ltere Eintr&auml;ge"
+
+#: ../includes/blogstylecat.php:32
+#: ../includes/blogstylehome.php:35
+#: ../includes/default.php:38
+#: ../includes/defaultarchive.php:43
+#: ../includes/defaultcat.php:38
+#: ../includes/defaultindex.php:38
+msgid "Next Entries &raquo;"
+msgstr "Neuere Eintr&auml;ge &raquo;"
+
+#: ../includes/blogstylecat.php:36
+#: ../includes/blogstylehome.php:41
+#: ../includes/defaultarchive.php:47
+#: ../includes/defaultcat.php:42
+#: ../includes/defaultindex.php:42
+msgid "No Results Found"
+msgstr "Nicht gefunden"
+
+#: ../includes/blogstylecat.php:37
+#: ../includes/blogstylehome.php:42
+#: ../includes/defaultarchive.php:48
+#: ../includes/defaultcat.php:43
+#: ../includes/defaultindex.php:43
+msgid "Sorry, your search returned zero results."
+msgstr "Nicht gefunden"
+
+#: ../includes/comments1.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Uploaden Sie bitte diese Seite direkt nicht. Danke!"
+
+#: ../includes/comments1.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Artikel ist passwortgeschützt. Geben Sie Ihr Passwort ein um die Kommentare anzuzeigen."
+
+#: ../includes/comments1.php:20
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+#: ../includes/comments1.php:20
+msgid "One Response"
+msgstr "1 Antwort"
+
+#: ../includes/comments1.php:20
+msgid "% Responses"
+msgstr "% Antworten"
+
+#: ../includes/comments1.php:20
+msgid "to &#8220;"
+msgstr ": "
+
+#: ../includes/comments1.php:37
+msgid "Comments are closed."
+msgstr "Keine Kommentare mehr m&ouml;glich."
+
+#: ../includes/comments1.php:43
+msgid "Leave a Reply"
+msgstr "Einen Kommentar schreiben"
+
+#: ../includes/comments1.php:43
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Einen Kommentar schreiben zu %s"
+
+#: ../includes/comments1.php:49
+msgid "You must be"
+msgstr "Du musst"
+
+#: ../includes/comments1.php:49
+msgid "logged in"
+msgstr "eingeloggt"
+
+#: ../includes/comments1.php:49
+msgid "to post a comment."
+msgstr "sein um einen Kommentar zu schreiben."
+
+#: ../includes/comments1.php:53
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#: ../includes/comments1.php:53
+#: ../includes/comments2.php:52
+msgid "Log out of this account"
+msgstr "Abmelden"
+
+#: ../includes/comments1.php:53
+#: ../includes/comments2.php:53
+msgid "Log out &raquo;"
+msgstr "Abmelden &raquo;"
+
+#: ../includes/comments1.php:57
+#: ../includes/comments2.php:59
+msgid "Name"
+msgstr "Name"
+
+#: ../includes/comments1.php:58
+#: ../includes/comments1.php:64
+#: ../includes/comments2.php:60
+#: ../includes/comments2.php:67
+msgid "(required)"
+msgstr "(ben&ouml;tigt)"
+
+#: ../includes/comments1.php:63
+#: ../includes/comments2.php:66
+msgid "Mail (will not be published)"
+msgstr "Mail (wird nicht ver&ouml;ffentlicht)"
+
+#: ../includes/comments1.php:69
+#: ../includes/comments2.php:73
+msgid "Website"
+msgstr "Website"
+
+#: ../includes/comments1.php:77
+#: ../includes/comments2.php:82
+msgid "Submit Comment"
+msgstr "Kommentar absenden"
+
+#: ../includes/comments2.php:4
+msgid "Enter your password to view comments."
+msgstr "Auch die Kommentare sind durch das Passwort geschützt."
+
+#: ../includes/comments2.php:8
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: ../includes/comments2.php:8
+msgid "One Comment"
+msgstr "1 Kommentar"
+
+#: ../includes/comments2.php:8
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../includes/comments2.php:10
+#: ../includes/comments2.php:45
+msgid "Leave a comment"
+msgstr "Einen Kommentar schreiben"
+
+#: ../includes/comments2.php:20
+msgid "says:"
+msgstr "sagt:"
+
+#: ../includes/comments2.php:32
+msgid "No comments yet."
+msgstr "Noch keine Kommentare."
+
+#: ../includes/comments2.php:36
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> Feed für Kommentare zu diesem Artikel."
+
+#: ../includes/comments2.php:39
+msgid "TrackBack <abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "TrackBack <abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: ../includes/comments2.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du musst <a href=\"%s\">eingeloggt</a> sein um einen Kommentar zu schreiben."
+
+#: ../includes/comments2.php:52
+#, php-format
+msgid "Logged in as %s."
+msgstr "Angemeldet als %s."
+
+#: ../includes/comments2.php:77
+#, php-format
+msgid "You can use these tags: %s"
+msgstr "Sie können die folgenden Tags verwenden: %s"
+
+#: ../includes/comments2.php:90
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Die Kommentarfunktion ist zur Zeit leider deaktiviert."
+
+#: ../includes/defaultarchive.php:7
+msgid "Browsing &raquo;"
+msgstr "Jetzt sehen Sie durch &raquo;"
+
+#: ../includes/defaultcat.php:7
+msgid "Browsing » "
+msgstr "Jetzt sehen Sie durch » "
+
+#: ../includes/featured.php:35
+msgid "Continue Reading"
+msgstr "mehr"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "Posted"
+msgstr "Gepostet"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "by"
+msgstr "von"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "on"
+msgstr "am"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "in"
+msgstr "in"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "0 comments"
+msgstr "Keine Kommentare"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: ../includes/postinfo-create.php:2
+#: ../includes/postinfo-create.php:4
+msgid "comments"
+msgstr "Kommentare"
+
+#: ../includes/functions/comments.php:12
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">sagt:</span>"
+
+#: ../includes/functions/comments.php:13
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s in %2$s"
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: ../includes/functions/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf die &Uuml;berpr&uuml;fung."
+

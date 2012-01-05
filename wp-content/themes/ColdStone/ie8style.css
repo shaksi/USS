@@ -1,0 +1,58 @@
+.feature_slide {
+	position:relative;
+	top:-4px;
+}
+.feat_post h2 {
+	margin-top: 20px;
+}
+#author {
+	float: left;
+	margin-left: 0px !important;
+}
+.feat_post {
+	position:relative;
+	z-index:100;
+	clear:both;
+	height: 200px;
+	overflow: hidden;
+	margin-top: -52px;
+}
+.feature_widget {
+	position:relative;
+	top:35px;
+}
+.subpost {
+}
+* html .feature_content {
+	position:relative;
+	top:-228px;
+	z-index:0;
+}
+* html .feat_post {
+	position:relative;
+	top:-37px;
+}
+* html .feature_slide {
+	position:relative;
+	top:-2px;
+}
+* html .feature_widget {
+	position:relative;
+	right:-25px;
+}
+.tabbed {
+	margin-bottom: 15px;
+}
+ul.tabNavigation li a {
+	padding:4px 10px 8px 10px;
+	height: 20px;
+}
+.tabNavigation {
+	width: 250px;
+}
+.keepreading a:link, .keepreading a:visited {
+	padding: 2px 34px 2px 8px;
+}
+#author {
+	margin-left: -20px;
+}

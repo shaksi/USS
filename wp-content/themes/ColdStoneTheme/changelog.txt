@@ -1,0 +1,28 @@
+version 3.5
+
+updated the theme for WordPress 3.0
+
+version 3.4
+
+added fix for wordpress 3.0 beta
+- epanel/custom_functions.php
+
+version 3.3
+
+fixed problem with custom colors
+- epanel/options_coldstone.php
+
+version 3.2:
+
+updates made to core epanel functions in:
+- epanel/core_functions.php
+- epanel/custom_functions.php
+- epanel/css/panel.css
+- style.css
+
+version 3.1: 
+
+- Added Post Thumbnail Images support
+- Null Entry in database fixed
+- Deleted 'Enable Post Info section' options
+- Fixed: Author, Date, Categories: if all options disabled, it displays all options enabled after refresh

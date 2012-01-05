@@ -1,0 +1,2 @@
+<a href="<?php echo $coldstone_banner_url_one; ?>"><img src="<?php echo $coldstone_banner_image_one; ?>" alt="advertisement" /></a>
+<a href="<?php echo $coldstone_banner_url_two; ?>"><img src="<?php echo $coldstone_banner_image_two; ?>" alt="advertisement" /></a>
