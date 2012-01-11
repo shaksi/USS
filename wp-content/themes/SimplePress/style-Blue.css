@@ -1,6 +1,5 @@
 .banner span { background-image: url(images/green/slider-readmore-left.png); }
 .banner span a { background-image: url(images/green/slider-readmore-right.png); color: #fff; text-shadow: 1px 1px 0px #407521; }
-#navwrap { background-image: url(images/green/nav-bg.png); }
 .nav_top { background-image: url(images/green/nav-top.png); }
 .nav_bottom { background-image: url(images/green/nav-bottom.png); }
 .nav li ul { background-image: url(images/green/dropdown-bg.png); background-color: #6fb845;  border-left: 1px solid #5b9d36; border-right: 1px solid #5b9d36; border-bottom: 1px solid #5b9d36; }
@@ -25,16 +24,15 @@
 
 
 #tool_header #tools form#searchform input#s, .error-page form#searchform input#s {
-  float: left;
   margin: 0 0 .5em 0;
   padding: 5px 10px;
   background: white url('images/glass.png') no-repeat 98% 1px;
-  border: 1px solid #6fb845;
-  width: 292px;
+  border: 1px solid #859100;
+  width: 276px;
   height: 28px;
   color: rgb(153, 153, 153);
   font-size: 1.2em;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, Times, serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
   border-image: initial;
 }
 
@@ -58,23 +56,24 @@ ol, ul {
   margin: 0 0.5em 0 0;
   line-height: 2em;
   font-size: 1.2em;
+  float: left;
 }
 
 
 #tool_header #tools #subscribe ul li a {
   display: block;
   padding: 0 12px;
-  border: 1px solid rgb(254, 134, 17);
+  border: 1px solid #859100;
   background: rgb(250, 250, 250);
   background-color: rgb(254, 254, 254);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(254, 254, 254)), to(rgb(233, 233, 233)));
+/*  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(254, 254, 254)), to(rgb(233, 233, 233)));
   background-image: -webkit-linear-gradient(top, rgb(254, 254, 254), rgb(233, 233, 233));
   background-image: -moz-linear-gradient(top, rgb(254, 254, 254), rgb(233, 233, 233));
   background-image: -o-linear-gradient(top, rgb(254, 254, 254), rgb(233, 233, 233));
   background-image: -ms-linear-gradient(top, rgb(254, 254, 254), rgb(233, 233, 233));
   background-image: linear-gradient(top, rgb(254, 254, 254), rgb(233, 233, 233));
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fefefe', EndColorStr='#e9e9e9');
-  color: rgb(54, 54, 54);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fefefe', EndColorStr='#e9e9e9');*/
+  color: rgb(153, 153, 153);
   cursor: pointer;
   text-decoration: none;
   border-image: initial;
