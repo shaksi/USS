@@ -39,9 +39,8 @@
     <div id="tools">
         <div id="subscribe">
           <ul>
-            <li><a href="http://experts.cdkn.org" title="Roster of Experts" rel=
-            "external">Roster of Experts</a></li>
-
+            <li><a href="/donate" title="Roster of Experts" rel=
+            "external">Support Us &amp; Donate</a></li>
             <li><a title="rss feed" href="/feed/?lang=en_gb" rel="external">RSS</a></li>
 
             <li><a href="/newsletter" class="join_link">Newsletter</a></li>
@@ -53,9 +52,7 @@
             "if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur=
             "if (this.value == '') {this.value = 'To search, type and hit enter';}" size="32"
             tabindex="1" /> <input id="searchsubmit" name="searchsubmit" type="submit" value=
-            "&Acirc;&raquo;" tabindex="2" /> <input type="hidden" name="loclang" value=
-            "en_gb" />
-
+            ">>>" tabindex="2" /> 
         </form>
       </div><!--/tools-->
   </div><!--/tool_header-->
