@@ -1,0 +1,5 @@
+span.drop-caps { line-height: 37px; }
+h1.title, h2.title, h3#comments { min-height: 50px; }
+
+.postinfo { width: 100%; margin-top: 0; }
+.shadow-left, .shadow-right { display: none; }

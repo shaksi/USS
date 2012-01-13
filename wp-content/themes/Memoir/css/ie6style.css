@@ -1,0 +1,10 @@
+span.drop-caps { line-height: 34px; }
+h1.title, h2.title, h3#comments { min-height: 50px; }
+
+body { background: url(../images/bg.jpg) no-repeat top center fixed; }
+#main_bg { display: none; }
+.wp-pagenavi { line-height: 60px; }
+a.readmore, a.readmore span, .reply-container, .reply-container a { background: none; color: red; }
+.postinfo { margin: 0; }
+.postinfo span, .shadow-left, .shadow-right { background: none; }
+div.meta-info { float: none; }

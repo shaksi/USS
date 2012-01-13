@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Memoir 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 01:24+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor no cargues esta página directamente. ¡Gracias!"
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta publicación está protegida por clave. Escribe la clave para ver los comentarios."
+
+#: ../comments.php:24
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../comments.php:24
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../comments.php:24
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:66
+msgid "Submit a Comment"
+msgstr "Enviar un comentario"
+
+#: ../comments.php:66
+#, php-format
+msgid "Submit a Comment to %s"
+msgstr "Enviar un comentario a %s"
+
+#: ../comments.php:72
+msgid "You must be"
+msgstr "Debes estar"
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr "registrado en"
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr "para publicar un comentario."
+
+#: ../comments.php:76
+msgid "Logged in as"
+msgstr "Registrado como"
+
+#: ../comments.php:76
+msgid "Log out &raquo;"
+msgstr "Salir &raquo;"
+
+#: ../comments.php:79
+#: ../comments.php:80
+#: ../page-contact.php:98
+msgid "Name"
+msgstr "Nombre"
+
+#: ../comments.php:83
+#: ../comments.php:84
+msgid "Mail (will not be published)"
+msgstr "E-mail (no será publicado)"
+
+#: ../comments.php:87
+#: ../comments.php:88
+msgid "Website"
+msgstr "Página web"
+
+#: ../comments.php:92
+#: ../comments.php:93
+msgid "Your message..."
+msgstr "Tu mensaje..."
+
+#: ../comments.php:96
+msgid "Submit Comment"
+msgstr "Enviar comentario"
+
+#: ../footer.php:3
+msgid "Designed by "
+msgstr "Diseñado por"
+
+#: ../functions.php:32
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: ../header.php:59
+msgid "Home"
+msgstr "Inicio"
+
+#: ../index.php:49
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../page-blog.php:47
+#: ../page-contact.php:88
+#: ../page-full.php:32
+#: ../page-gallery.php:43
+#: ../page-login.php:40
+#: ../page-search.php:40
+#: ../page-search.php:50
+#: ../page-sitemap.php:40
+#: ../page-sitemap.php:44
+#: ../page.php:27
+#: ../single.php:27
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-blog.php:59
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:59
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:59
+msgid "on"
+msgstr "el"
+
+#: ../page-blog.php:59
+msgid "in"
+msgstr "en"
+
+#: ../page-blog.php:59
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../page-blog.php:59
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../page-blog.php:59
+msgid "comments"
+msgstr "comentarios"
+
+#: ../page-blog.php:79
+msgid "read more"
+msgstr "leer más"
+
+#: ../page-blog.php:98
+#: ../page-contact.php:135
+#: ../page-full.php:33
+#: ../page-gallery.php:82
+#: ../page-login.php:57
+#: ../page-search.php:86
+#: ../page-sitemap.php:77
+#: ../page.php:28
+#: ../single.php:28
+msgid "Edit this page"
+msgstr "Editar esta página"
+
+#: ../page-contact.php:21
+msgid "Make sure you entered the captcha. "
+msgstr "Asegúrate de haber escrito el número captcha."
+
+#: ../page-contact.php:24
+msgid "Numbers regenerated."
+msgstr "Números regenerados."
+
+#: ../page-contact.php:25
+msgid "You entered the wrong number in captcha. "
+msgstr "Has escrito un número captcha erróneo."
+
+#: ../page-contact.php:34
+msgid "Make sure you fill all fields. "
+msgstr "Rellena todos los campos."
+
+#: ../page-contact.php:39
+msgid "Invalid Email. "
+msgstr "E-mail no válido."
+
+#: ../page-contact.php:59
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactar con nosotros"
+
+#: ../page-contact.php:102
+msgid "Email Address"
+msgstr "Dirección e-mail"
+
+#: ../page-contact.php:106
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../page-contact.php:113
+msgid "Captcha: "
+msgstr "Captcha:"
+
+#: ../page-contact.php:122
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../page-contact.php:127
+msgid "Reset"
+msgstr "Restablecer"
+
+#: ../page-contact.php:128
+#: ../page-search.php:78
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:64
+msgid "Zoom in"
+msgstr "Acercar"
+
+#: ../page-gallery.php:65
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../page-login.php:46
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../page-login.php:47
+msgid "Password"
+msgstr "Clave"
+
+#: ../page-login.php:51
+msgid "Not a member?"
+msgstr "¿No eres miembro?"
+
+#: ../page-login.php:51
+msgid "Register today!"
+msgstr "¡Regístrate hoy!"
+
+#: ../page-search.php:44
+msgid "search this website"
+msgstr "buscar en esta web"
+
+#: ../page-search.php:49
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: ../page-search.php:53
+msgid "Select a month"
+msgstr "Selecciona un mes"
+
+#: ../page-sitemap.php:49
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../page-sitemap.php:54
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../page-sitemap.php:70
+msgid "Authors"
+msgstr "Autores"
+
+#: ../includes/breadcrumbs.php:8
+msgid "Posts Tagged &quot;"
+msgstr "Publicaciones etiquetadas &quot;"
+
+#: ../includes/breadcrumbs.php:10
+#: ../includes/breadcrumbs.php:12
+#: ../includes/breadcrumbs.php:14
+msgid "Posts made in"
+msgstr "Publicaciones hechas en"
+
+#: ../includes/breadcrumbs.php:16
+msgid "Search results for"
+msgstr "Buscar resultados para"
+
+#: ../includes/breadcrumbs.php:28
+msgid "Posts by "
+msgstr "Publicado por"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo;  Entradas Anteriores"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Entradas Siguientes &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Sin resultados"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "No se puede encontrar la página requerida. Intenta redefinir tu búsqueda, o usa la navegación superior para localizar la publicación."
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/comments.php:19
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de moderación."
+
+#: ../includes/functions/comments.php:24
+msgid "Respond"
+msgstr "Responder"
+
+#: ../includes/widgets/widget-search.php:14
+msgid "Search this site..."
+msgstr "Buscar en esta web..."
+

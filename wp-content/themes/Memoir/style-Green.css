@@ -1,0 +1,7 @@
+body { background: url(images/green/bg.jpg); }
+	#menu-top { background:url(images/green/menu-top.png) no-repeat; }
+	#menu-content { background:url(images/green/menu-content.png) repeat-y; }
+	#menu-bottom { background:url(images/green/menu-bottom.png) no-repeat; }
+		ul#top-menu a span { color: #bee9aa; }
+ul#top-menu li ul { background: url(images/green/dropdown-bottom.png) no-repeat bottom left; }
+span.dropdown-top { background: url(images/green/dropdown-top.png) no-repeat; }
